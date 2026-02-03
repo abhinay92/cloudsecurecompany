@@ -9,3 +9,7 @@ Requirements
 4. Deploy kubernetes clusters in one of the spoke account using eksctl
 5. Harden the cluster to meet CIS standards
 6. Deploy a bunch of automations for secret management, log events processing and centralised to SIEM 
+
+
+K8 Cluster Deployment
+1. Deploy a k8 custer using eksctl
